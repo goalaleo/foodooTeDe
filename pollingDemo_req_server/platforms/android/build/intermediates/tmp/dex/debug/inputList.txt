@@ -1,0 +1,2 @@
+C:\Users\Lepa\Desktop\pollingDemo\platforms\android\build\intermediates\classes\debug
+C:\Users\Lepa\Desktop\pollingDemo\platforms\android\build\intermediates\pre-dexed\debug\classes-7278340e18d89ca954664c2f7a566f21139b7dc3.jar

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lepa\Desktop\pollingDemo\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7bf95da469ec0a3cdac050180e28290361f23c9">
+        <dex dex="C:\Users\Lepa\Desktop\pollingDemo\platforms\android\build\intermediates\pre-dexed\debug\classes-7278340e18d89ca954664c2f7a566f21139b7dc3.jar" />
+    </item>
+
+</items>

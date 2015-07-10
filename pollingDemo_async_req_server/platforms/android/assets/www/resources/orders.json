@@ -1,0 +1,43 @@
+[{
+    "order_id": 1,
+    "restaurant_id": 1,
+    "items": [
+        "Bliny",
+        "Beef Stroganoff"
+    ]
+}, {
+    "order_id": 2,
+    "restaurant_id": 1,
+    "items": [
+        "Bliny",
+        "Plinka"
+    ]
+}, {
+    "order_id": 3,
+    "restaurant_id": 1,
+    "items": [
+        "Plitsk",
+        "Coke"
+    ]
+}, {
+    "order_id": 4,
+    "restaurant_id": 1,
+    "items": [
+        "Pipsi",
+        "Polyanka"
+    ]
+}, {
+    "order_id": 5,
+    "restaurant_id": 1,
+    "items": [
+        "Beluga caviar"
+    ]
+}, {
+    "order_id": 6,
+    "restaurant_id": 1,
+    "items": [
+        "Beluga caviar",
+        "Plianka",
+        "Monova"
+    ]
+}]

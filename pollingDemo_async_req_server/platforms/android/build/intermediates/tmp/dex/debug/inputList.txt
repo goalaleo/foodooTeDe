@@ -1,0 +1,2 @@
+C:\Users\Lepa\Desktop\pollingDemo_async_req_server\platforms\android\build\intermediates\classes\debug
+C:\Users\Lepa\Desktop\pollingDemo_async_req_server\platforms\android\build\intermediates\pre-dexed\debug\classes-5d3ab831fd9dbd736a26c5328dd9c39cea14dca7.jar
