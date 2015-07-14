@@ -21,7 +21,21 @@
         <ion-header-bar class="bar-stable">
             <h1 class="title">Orders</h1>
         </ion-header-bar>
-        <ion-content ng-controller="MainController">
+        <ion-content class="has-header" ng-controller="MainController">
+            <div align="center" class="item">
+                <h2 class="title">Customer Search (test to see how angular handles divisions asynchronously)</h2>
+            </div>
+            <div id="customer_search" class="list" ng-controller="CustomerController">
+                <label class="item item-input">
+                    <input type="text" data-ng-model="filter.name" placeholder="Write customer's name here" />
+                </label>
+                <ul class="list">
+                    <li class="item" data-ng-repeat="cust in customers | filter:filter.name | orderBy:'city'">
+                        {{cust.name}} - {{cust.city}}
+                    </li>
+                </ul>
+            </div>
+            <!-- customer_search end -->
             <div class="card" ng-show="orders" ng-repeat="order in orders">
                 <div class="item item-divider">
                     <h2>Order id is: {{order.id}}</h2>
